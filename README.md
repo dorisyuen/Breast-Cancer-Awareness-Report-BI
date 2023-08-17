@@ -1,5 +1,5 @@
-# Breast-Cancer-Awareness-Report-BI
-## Show Breast Cancer Awareness by Power BI with Plot
+
+# Show Breast Cancer Awareness by Power BI with Plot
 ## The dataset contains some information by breast cancer patient including :
 ### Age, Gender,
 ### Protein1, Protein2, Protein3, Protein4 > Expression levels of four proteins
